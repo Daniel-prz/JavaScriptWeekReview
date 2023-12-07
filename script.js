@@ -75,8 +75,8 @@ const array2 = array1;
 array1.shift();
 console.log(array2);
 
-let numbervalue = 10;
-let othervalue = numbervalue;
-numbervalue = numbervalue * 2;
-console.log(othervalue);
-console.log(numbervalue);
+let numberValue = 10;
+let otherValue = numberValue;
+numberValue = numberValue * 2;
+console.log(otherValue);
+console.log(numberValue);
